@@ -1,6 +1,6 @@
 ### customer-insights-menu-performance-cafe
 
-# Customer Insights and Menu Performance Analysis for Taste of the World Café
+# Customer Insights & Menu Performance Analysis for Taste of the World Café
 
 ## by Lucila Aldana Quiñonez | Marketing Data Analyst
 
