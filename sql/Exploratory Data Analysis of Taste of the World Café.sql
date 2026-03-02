@@ -1,4 +1,4 @@
--- CUSTOMER INSIGHTS AND MENU PERFORMANCE ANALYSIS FOR TASTE OF THE WORLD CAFÉ - by Lucila Aldana Quiñonez | Marketing Data Analyst
+-- CUSTOMER INSIGHTS & MENU PERFORMANCE ANALYSIS FOR TASTE OF THE WORLD CAFÉ - by Lucila Aldana Quiñonez | Marketing Data Analyst
 -- Exploratory Data Analysis:
 DROP TABLE IF EXISTS orders_complete;
 
