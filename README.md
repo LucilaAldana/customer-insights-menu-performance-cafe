@@ -4,9 +4,7 @@
 
 ## by Lucila Aldana Quiñonez | Marketing Data Analyst
 
-📄 Report
-- 🇺🇸 English: /report_en.pdf  
-- 🇪🇸 Spanish: /report_es.pdf  
+📄 Report available in: English - Spanish
 
 This project analyzes customer behavior and menu performance for Taste of the World Café following the launch of a new menu, with the goal of evaluating sales trends, pricing impact, and revenue contribution across categories.
 
