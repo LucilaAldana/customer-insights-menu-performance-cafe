@@ -38,4 +38,4 @@ Strategic recommendations include investigating system data issues, expanding cu
 
 This project simulates a real-world restaurant performance evaluation scenario where menu engineering, customer behavior analysis, and revenue optimization are integrated to support strategic business decisions.
 
-Tools Used: SQL / Excel / Data Analysis / Revenue Analysis / Time-Based Trend Analysis / Menu Performance Evaluation / Generative AI
+Tools Used: SQL / Excel / Generative AI / Data Analysis / Revenue Analysis / Time-Based Trend Analysis / Menu Performance Evaluation
